@@ -4,6 +4,8 @@ This project focuses on the classification of hyperspectral images using three d
 
 ## Dataset
 The Pavia University dataset consists of hyperspectral images captured by the Reflective Optics System Imaging Spectrometer (ROSIS) sensor over Pavia University in Italy. The dataset contains spectral information for each pixel, making it suitable for classification tasks.
+![Pavia Image](./pavia.png)
+
 
 ## Models Implemented
 
