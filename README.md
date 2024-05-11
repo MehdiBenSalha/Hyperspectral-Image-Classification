@@ -33,7 +33,7 @@ In this project, Artificial Neural Networks (ANNs) were employed for hyperspectr
 ### ANN with PCA
 - **Accuracy:** 0.91
 - **F1 score:** 0.89
-- 
+
 ## Conclusion
 In conclusion, this project demonstrates the application of machine learning techniques for hyperspectral image classification using the Pavia University dataset. Each implemented model offers different advantages and performance characteristics, which can be further explored and optimized for specific classification tasks.
 
